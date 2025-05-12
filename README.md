@@ -9,8 +9,8 @@ Sistema de recomendação de filmes baseado em regressão supervisionada (`XGBoo
 Clone o repositório e acesse a pasta do projeto:
 
 ```bash
-git clone https://github.com/seu-usuario/recomendador-filmes.git
-cd recomendador-filmes
+git clone git@github.com:arthurpaschoalotto/recommendation-system.git
+cd recommendation-system
 ```
 
 Crie um novo ambiente Conda com as dependências definidas no `environment.yml`:
