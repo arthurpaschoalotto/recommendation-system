@@ -1,0 +1,17 @@
+name: sis-recomendacao
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - scikit-learn
+  - xgboost
+  - streamlit
+  - fastparquet
+  - pyarrow
+  - joblib
+  - pip
+  - seaborn
+  - lightgbm
+  - xgboost
